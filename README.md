@@ -33,7 +33,16 @@ Borrow = A’B
 
 Figure -02 HALF Subtractor
 
-**Truthtable**
+## Truthtable:
+
+**HALF ADDER:**
+
+![truth_table_halfadder](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/a61ed470-ca6a-4a42-99f0-7fade5978d74)
+
+**HALF SUBTRACTOR**
+
+![truthtable_half_subtractor](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/d6907e51-6859-4b69-a08d-03890c531329)
+
 
 **Procedure**
 
@@ -49,13 +58,36 @@ Figure -02 HALF Subtractor
 
 
 **Program:**
+```
+Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+Developed by:ROHITH PREM S RegisterNumber: 212223040172
+```
+**CODE:**
 
-/* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+**HALF ADDER:**
 
-Developed by: RegisterNumber:*/
+![Screenshot (33)](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/fe119800-ca3f-44a2-87cc-98b50daedcde)
+**HALF SUBTRACTOR:**
+
+![Screenshot (36)](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/82d5fcfa-3764-48f5-b21a-535241c852a0)
 
 **RTL Schematic**
 
+**HALF ADDER:**
+
+![Screenshot (31)](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/9022f605-dc29-4cd8-a260-d97df3e2f072)
+**HALF SUBTRACTOR:**
+
+![Screenshot (34)](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/3a2d6fa3-497b-4a51-88c6-4b6cfedf6681)
+
 **Output/TIMING Waveform**
 
+**HALF ADDER:**
+![Screenshot (32)](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/8decea87-74cb-4c6e-89d5-cc4946ba3505)
+**HALF SUBTRACTOR**
+![Screenshot (35)](https://github.com/rohithprem18/HALF_ADDER_SUBTRACTOR/assets/146315115/c10e3183-25e3-47c8-ac46-3a0c2e11848d)
+
+
 **Result:**
+
+Thus, a half adder and half subtractor circuit is designed to verify its truth table in Quartus using Verilog programming.
